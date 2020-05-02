@@ -1,0 +1,29 @@
+_repo: Anglo-American-Memories_61959
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smalley, George W. (George Washburn)
+    alias: Smalley, George Washburn
+    birthdate: 1833
+    deathdate: 1916
+    gutenberg_agent_id: '51698'
+    url: http://www.gutenberg.org/2009/agents/51698
+description: ''
+gutenberg_issued: '2020-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61959'
+  lccn: '11035360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'Great Britain -- Politics and government'
+- !lcsh 'Europe -- Politics and government -- 1871-1918'
+- !lcsh 'Great Britain -- Intellectual life'
+- !lcc 'D'
+- GITenberg
+title: Anglo-American Memories
+url: http://www.gutenberg.org/ebooks/61959
