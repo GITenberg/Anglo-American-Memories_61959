@@ -1,5 +1,8 @@
 _repo: Anglo-American-Memories_61959
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61959-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Smalley, George W. (George Washburn)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51698'
     url: http://www.gutenberg.org/2009/agents/51698
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61959#Anglo-American-Memories
 gutenberg_issued: '2020-04-27'
 gutenberg_type: Text
 identifiers:
